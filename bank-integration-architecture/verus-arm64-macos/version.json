@@ -1,0 +1,12 @@
+{
+  "verus": {
+    "profile": "release",
+    "version": "0.2026.04.03.21dfcd2",
+    "platform": {
+      "os": "macos",
+      "arch": "aarch64"
+    },
+    "toolchain": "1.94.0-aarch64-apple-darwin",
+    "commit": "21dfcd2c150ab26514ec3cf989ae65b5f009799c"
+  }
+}
